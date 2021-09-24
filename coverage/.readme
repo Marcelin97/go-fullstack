@@ -1,0 +1,7 @@
+##Opération pour lancer le serve
+cd backend
+nodemon server
+
+##Opération pour executer notre application dans un navigateur
+cd frontend
+ng serve
